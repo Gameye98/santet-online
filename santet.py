@@ -237,8 +237,8 @@ while True:
 			backtomenu_option()
 		elif santet == "06" or santet == "6":
 			print(telegramspam_banner)
-			api_id = 375394
-			api_hash = '422b5419be03a46c9930c3c6421bfbb2'
+			api_id = 1148490
+			api_hash = 'd82c81323285aeb9c2ba9ee420d8b009'
 			client = TelegramClient('client',api_id,api_hash).start()
 			target = input("santet > set USERNAME/ID ")
 			try: count = int(input("santet > set COUNT "))
