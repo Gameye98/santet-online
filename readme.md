@@ -1,6 +1,9 @@
 # santet-online
-Tool receh buat santet orang secara online XD  
-Author udh pada gila semua XD hehe
+Santet-Online adalah alat rekayasa sosial dengan subfungsi yang berfokus dalam menyerang penyandang kebutuhan sosial seseorang, seperti jasa sosial media dan short message service.  
+Serangan yang dilancarkan tersebut selalu terkait aktifitas spamming (pesan yang dikirimkan berulang-ulang), spoofing dan bruteforce engineering, untuk subfungsi dos atau denial of service tidak lain dan tidak bukan, hanya untuk menarik peminat pengguna saja.
+
+Catatan: Santet-Online tidak terkait dengan aktifitas spiritual melainkan dengan computational activity (spam, spoof, bruteforce), jangan menduga yang tidak-tidak hanya karena nama alat ini  
+Peringatan: Untuk kerusakan yang ditimbulkan karena penggunaan dari alat ini bukan tanggung jawab author, anda harus bertanggung jawab sendiri untuk kerusakan yang anda timbulkan dari menggunakan alat ini
 
 ### Requirements
 • Python 3.x
@@ -14,5 +17,6 @@ python santet.py
 ```
 
 #### Join US
-*.Facebook](https://mobile.facebook.com/groups/1704985559810669)  
+*.[Facebook](https://mobile.facebook.com/groups/1704985559810669)  
 *.[Telegram](https://t.me/BHSec)
+*.[Telegram-Channel](https://t.me/bhs3c)
