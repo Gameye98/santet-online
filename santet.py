@@ -176,9 +176,9 @@ while True:
 			except(ValueError): count = 100
 			message = str(input("santet > set MESSAGE "))
 			headers = {"User-Agent": "Mozilla/5.0 (Linux; Android 8.1.0; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 OPR/44.6.2246.127414","Content-Type": "application/json"}
-			params = {"recipient": {"id": recipient_id},"message": {"text": message}}
+			data = {"recipient": {"id": recipient_id},"message": {"text": message}}
 			for x in range(count):
-				r = requests.post("https://graph.facebook.com/v5.0/me/messages?access_token={}".format(access_token), data=params, headers=headers)
+				r = requests.post("https://graph.facebook.com/v6.0/me/messages?access_token={}".format(access_token), params=data, headers=headers)
 				if r.status_code == 200:
 					sys.stdout.write(u"\u001b[1000D[*] Sent {} messages to {}...".format(x+1, recipient_id))
 				else:
