@@ -5,7 +5,7 @@ Serangan yang dilancarkan tersebut selalu terkait aktifitas spamming (pesan yang
 Catatan: Santet-Online tidak terkait dengan aktifitas spiritual melainkan dengan computational activity (spam, spoof, bruteforce), jangan menduga yang tidak-tidak hanya karena nama alat ini  
 Peringatan: Untuk kerusakan yang ditimbulkan karena penggunaan dari alat ini bukan tanggung jawab author, anda harus bertanggung jawab sendiri untuk kerusakan yang anda timbulkan dari menggunakan alat ini
 
-**Source Code for Santet Online App** is [Here](https://raw.githubusercontent.com/Gameye/Gameye98.github.io/master/source/Santet.zip)
+**Source Code for Santet Online App** is [Here](https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/source/Santet.zip)
 
 ### Requirements
 • Python 3.x
